@@ -1,0 +1,4 @@
+Name of file: doc.txt.
+Number of characters: 378.
+Number of words: 98.
+Number of lines: 20.
